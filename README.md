@@ -1,2 +1,3 @@
-# bestsellers
-I scraped the bestseller books data from amazon.com.tr using beautifulsoup4 and requests, then wrote into a csv file.
+In this repo, I share my web scraping projects. It contains single/multi page web scraping codes of that
+I scraped data from websites like amazon.com.tr and imdb.com. I saved the scraped data into a .csv file in
+all projects; also in some projects I stored the data in .json format.
