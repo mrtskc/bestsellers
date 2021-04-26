@@ -1,4 +1,2 @@
 #
-In this repo, I share my web scraping projects. It contains single/multi page scraping codes that I 
-scraped data from websites like amazon.com.tr and imdb.com. I saved the scraped data into a .csv file in
-all projects; also in some projects I stored the data in .json format.
+In this repo, I share my web scraping projects. I scraped data from websites like amazon.com.tr and imdb.com using the beautiful soup python library. I stored the data in CSV file format in all projects. Also, in some projects (imdbTop1000), I used the JSON format for storage.
