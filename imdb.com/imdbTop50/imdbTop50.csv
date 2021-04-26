@@ -1,0 +1,51 @@
+Rank,Title,Year,Director,Genre,Length (in minutes),IMDb Rating,Metascore Rating
+#1,Zack Snyder's Justice League,2021,Zack Snyder,"Action, Adventure, Fantasy",242,8.2,54
+#2,The Ten Commandments,1956,Cecil B. DeMille,"Adventure, Drama",220,7.9,
+#3,The Father,2020,Florian Zeller,Drama,97,8.3,88
+#4,Sleepers,1996,Barry Levinson,"Crime, Drama, Thriller",147,7.6,49
+#5,Harry Potter and the Half-Blood Prince,2009,David Yates,"Action, Adventure, Family",153,7.6,78
+#6,Sound of Metal,2019,Darius Marder,"Drama, Music",120,7.8,82
+#7,The Trial of the Chicago 7,2020,Aaron Sorkin,"Drama, History, Thriller",129,7.8,76
+#8,Avengers: Endgame,2019,Anthony Russo,"Action, Adventure, Drama",181,8.4,78
+#9,The Godfather,1972,Francis Ford Coppola,"Crime, Drama",175,9.2,100
+#10,Saving Private Ryan,1998,Steven Spielberg,"Drama, War",169,8.6,91
+#11,Soul,2020,Pete Docter,"Animation, Adventure, Comedy",100,8.1,83
+#12,Harry Potter and the Sorcerer's Stone,2001,Chris Columbus,"Adventure, Family, Fantasy",152,7.6,64
+#13,Druk,2020,Thomas Vinterberg,"Comedy, Drama",117,7.8,80
+#14,The Dark Knight,2008,Christopher Nolan,"Action, Crime, Drama",152,9.0,84
+#15,Knives Out,2019,Rian Johnson,"Comedy, Crime, Drama",130,7.9,82
+#16,The Shawshank Redemption,1994,Frank Darabont,Drama,142,9.3,80
+#17,Dazed and Confused,1993,Richard Linklater,Comedy,102,7.6,78
+#18,Once Upon a Time... in Hollywood,2019,Quentin Tarantino,"Comedy, Drama",161,7.6,83
+#19,Gisaengchung,2019,Bong Joon Ho,"Comedy, Drama, Thriller",132,8.6,96
+#20,Joker,2019,Todd Phillips,"Crime, Drama, Thriller",122,8.4,59
+#21,Avengers: Infinity War,2018,Anthony Russo,"Action, Adventure, Sci-Fi",149,8.4,68
+#22,The Gentlemen,2019,Guy Ritchie,"Action, Comedy, Crime",113,7.8,51
+#23,Thor: Ragnarok,2017,Taika Waititi,"Action, Adventure, Comedy",130,7.9,74
+#24,Captain America: Civil War,2016,Anthony Russo,"Action, Adventure, Sci-Fi",147,7.8,75
+#25,The Wolf of Wall Street,2013,Martin Scorsese,"Biography, Crime, Drama",180,8.2,75
+#26,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,"Action, Adventure, Drama",178,8.8,92
+#27,Watchmen,2009,Zack Snyder,"Action, Drama, Mystery",162,7.6,56
+#28,Interstellar,2014,Christopher Nolan,"Adventure, Drama, Sci-Fi",169,8.6,74
+#29,Titanic,1997,James Cameron,"Drama, Romance",194,7.8,75
+#30,The Godfather: Part II,1974,Francis Ford Coppola,"Crime, Drama",202,9.0,90
+#31,Pulp Fiction,1994,Quentin Tarantino,"Crime, Drama",154,8.9,94
+#32,Bohemian Rhapsody,2018,Bryan Singer,"Biography, Drama, Music",134,8.0,49
+#33,Captain America: The Winter Soldier,2014,Anthony Russo,"Action, Adventure, Sci-Fi",136,7.7,70
+#34,Guardians of the Galaxy,2014,James Gunn,"Action, Adventure, Comedy",121,8.0,76
+#35,Inception,2010,Christopher Nolan,"Action, Adventure, Sci-Fi",148,8.8,74
+#36,Forrest Gump,1994,Robert Zemeckis,"Drama, Romance",142,8.8,82
+#37,Blade Runner 2049,2017,Denis Villeneuve,"Action, Drama, Mystery",164,8.0,81
+#38,Inglourious Basterds,2009,Quentin Tarantino,"Adventure, Drama, War",153,8.3,69
+#39,Harry Potter and the Goblet of Fire,2005,Mike Newell,"Adventure, Family, Fantasy",157,7.7,81
+#40,Jojo Rabbit,2019,Taika Waititi,"Comedy, Drama, War",108,7.9,58
+#41,Green Book,2018,Peter Farrelly,"Biography, Comedy, Drama",130,8.2,69
+#42,Gladiator,2000,Ridley Scott,"Action, Adventure, Drama",155,8.5,67
+#43,Back to the Future,1985,Robert Zemeckis,"Adventure, Comedy, Sci-Fi",116,8.5,87
+#44,The Avengers,2012,Joss Whedon,"Action, Adventure, Sci-Fi",143,8.0,69
+#45,The Green Mile,1999,Frank Darabont,"Crime, Drama, Fantasy",189,8.6,61
+#46,Deadpool 2,2018,David Leitch,"Action, Adventure, Comedy",119,7.7,66
+#47,Schindler's List,1993,Steven Spielberg,"Biography, Drama, History",195,8.9,94
+#48,Ben-Hur,1959,William Wyler,"Adventure, Drama, History",212,8.1,90
+#49,The Matrix,1999,Lana Wachowski,"Action, Sci-Fi",136,8.7,73
+#50,Get Out,2017,Jordan Peele,"Horror, Mystery, Thriller",104,7.7,85

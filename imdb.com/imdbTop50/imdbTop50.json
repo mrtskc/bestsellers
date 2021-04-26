@@ -1,0 +1,602 @@
+[
+  {
+    "rank": 1,
+    "title": "Zack Snyder's Justice League",
+    "year": 2021,
+    "director": "Zack Snyder",
+    "genre": "Action, Adventure, Fantasy",
+    "length (in min)": 242,
+    "ratings": {
+      "imdb": 8.2,
+      "metascore": 54
+    }
+  },
+  {
+    "rank": 2,
+    "title": "The Ten Commandments",
+    "year": 1956,
+    "director": "Cecil B. DeMille",
+    "genre": "Adventure, Drama",
+    "length (in min)": 220,
+    "ratings": {
+      "imdb": 7.9,
+      "metascore": null
+    }
+  },
+  {
+    "rank": 3,
+    "title": "The Father",
+    "year": 2020,
+    "director": "Florian Zeller",
+    "genre": "Drama",
+    "length (in min)": 97,
+    "ratings": {
+      "imdb": 8.3,
+      "metascore": 88
+    }
+  },
+  {
+    "rank": 4,
+    "title": "Sleepers",
+    "year": 1996,
+    "director": "Barry Levinson",
+    "genre": "Crime, Drama, Thriller",
+    "length (in min)": 147,
+    "ratings": {
+      "imdb": 7.6,
+      "metascore": 49
+    }
+  },
+  {
+    "rank": 5,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "year": 2009,
+    "director": "David Yates",
+    "genre": "Action, Adventure, Family",
+    "length (in min)": 153,
+    "ratings": {
+      "imdb": 7.6,
+      "metascore": 78
+    }
+  },
+  {
+    "rank": 6,
+    "title": "Sound of Metal",
+    "year": 2019,
+    "director": "Darius Marder",
+    "genre": "Drama, Music",
+    "length (in min)": 120,
+    "ratings": {
+      "imdb": 7.8,
+      "metascore": 82
+    }
+  },
+  {
+    "rank": 7,
+    "title": "The Trial of the Chicago 7",
+    "year": 2020,
+    "director": "Aaron Sorkin",
+    "genre": "Drama, History, Thriller",
+    "length (in min)": 129,
+    "ratings": {
+      "imdb": 7.8,
+      "metascore": 76
+    }
+  },
+  {
+    "rank": 8,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "director": "Anthony Russo",
+    "genre": "Action, Adventure, Drama",
+    "length (in min)": 181,
+    "ratings": {
+      "imdb": 8.4,
+      "metascore": 78
+    }
+  },
+  {
+    "rank": 9,
+    "title": "The Godfather",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "genre": "Crime, Drama",
+    "length (in min)": 175,
+    "ratings": {
+      "imdb": 9.2,
+      "metascore": 100
+    }
+  },
+  {
+    "rank": 10,
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "director": "Steven Spielberg",
+    "genre": "Drama, War",
+    "length (in min)": 169,
+    "ratings": {
+      "imdb": 8.6,
+      "metascore": 91
+    }
+  },
+  {
+    "rank": 11,
+    "title": "Soul",
+    "year": 2020,
+    "director": "Pete Docter",
+    "genre": "Animation, Adventure, Comedy",
+    "length (in min)": 100,
+    "ratings": {
+      "imdb": 8.1,
+      "metascore": 83
+    }
+  },
+  {
+    "rank": 12,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "director": "Chris Columbus",
+    "genre": "Adventure, Family, Fantasy",
+    "length (in min)": 152,
+    "ratings": {
+      "imdb": 7.6,
+      "metascore": 64
+    }
+  },
+  {
+    "rank": 13,
+    "title": "Druk",
+    "year": 2020,
+    "director": "Thomas Vinterberg",
+    "genre": "Comedy, Drama",
+    "length (in min)": 117,
+    "ratings": {
+      "imdb": 7.8,
+      "metascore": 80
+    }
+  },
+  {
+    "rank": 14,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "genre": "Action, Crime, Drama",
+    "length (in min)": 152,
+    "ratings": {
+      "imdb": 9.0,
+      "metascore": 84
+    }
+  },
+  {
+    "rank": 15,
+    "title": "Knives Out",
+    "year": 2019,
+    "director": "Rian Johnson",
+    "genre": "Comedy, Crime, Drama",
+    "length (in min)": 130,
+    "ratings": {
+      "imdb": 7.9,
+      "metascore": 82
+    }
+  },
+  {
+    "rank": 16,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "genre": "Drama",
+    "length (in min)": 142,
+    "ratings": {
+      "imdb": 9.3,
+      "metascore": 80
+    }
+  },
+  {
+    "rank": 17,
+    "title": "Dazed and Confused",
+    "year": 1993,
+    "director": "Richard Linklater",
+    "genre": "Comedy",
+    "length (in min)": 102,
+    "ratings": {
+      "imdb": 7.6,
+      "metascore": 78
+    }
+  },
+  {
+    "rank": 18,
+    "title": "Once Upon a Time... in Hollywood",
+    "year": 2019,
+    "director": "Quentin Tarantino",
+    "genre": "Comedy, Drama",
+    "length (in min)": 161,
+    "ratings": {
+      "imdb": 7.6,
+      "metascore": 83
+    }
+  },
+  {
+    "rank": 19,
+    "title": "Gisaengchung",
+    "year": 2019,
+    "director": "Bong Joon Ho",
+    "genre": "Comedy, Drama, Thriller",
+    "length (in min)": 132,
+    "ratings": {
+      "imdb": 8.6,
+      "metascore": 96
+    }
+  },
+  {
+    "rank": 20,
+    "title": "Joker",
+    "year": 2019,
+    "director": "Todd Phillips",
+    "genre": "Crime, Drama, Thriller",
+    "length (in min)": 122,
+    "ratings": {
+      "imdb": 8.4,
+      "metascore": 59
+    }
+  },
+  {
+    "rank": 21,
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "director": "Anthony Russo",
+    "genre": "Action, Adventure, Sci-Fi",
+    "length (in min)": 149,
+    "ratings": {
+      "imdb": 8.4,
+      "metascore": 68
+    }
+  },
+  {
+    "rank": 22,
+    "title": "The Gentlemen",
+    "year": 2019,
+    "director": "Guy Ritchie",
+    "genre": "Action, Comedy, Crime",
+    "length (in min)": 113,
+    "ratings": {
+      "imdb": 7.8,
+      "metascore": 51
+    }
+  },
+  {
+    "rank": 23,
+    "title": "Thor: Ragnarok",
+    "year": 2017,
+    "director": "Taika Waititi",
+    "genre": "Action, Adventure, Comedy",
+    "length (in min)": 130,
+    "ratings": {
+      "imdb": 7.9,
+      "metascore": 74
+    }
+  },
+  {
+    "rank": 24,
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "director": "Anthony Russo",
+    "genre": "Action, Adventure, Sci-Fi",
+    "length (in min)": 147,
+    "ratings": {
+      "imdb": 7.8,
+      "metascore": 75
+    }
+  },
+  {
+    "rank": 25,
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "director": "Martin Scorsese",
+    "genre": "Biography, Crime, Drama",
+    "length (in min)": 180,
+    "ratings": {
+      "imdb": 8.2,
+      "metascore": 75
+    }
+  },
+  {
+    "rank": 26,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "director": "Peter Jackson",
+    "genre": "Action, Adventure, Drama",
+    "length (in min)": 178,
+    "ratings": {
+      "imdb": 8.8,
+      "metascore": 92
+    }
+  },
+  {
+    "rank": 27,
+    "title": "Watchmen",
+    "year": 2009,
+    "director": "Zack Snyder",
+    "genre": "Action, Drama, Mystery",
+    "length (in min)": 162,
+    "ratings": {
+      "imdb": 7.6,
+      "metascore": 56
+    }
+  },
+  {
+    "rank": 28,
+    "title": "Interstellar",
+    "year": 2014,
+    "director": "Christopher Nolan",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "length (in min)": 169,
+    "ratings": {
+      "imdb": 8.6,
+      "metascore": 74
+    }
+  },
+  {
+    "rank": 29,
+    "title": "Titanic",
+    "year": 1997,
+    "director": "James Cameron",
+    "genre": "Drama, Romance",
+    "length (in min)": 194,
+    "ratings": {
+      "imdb": 7.8,
+      "metascore": 75
+    }
+  },
+  {
+    "rank": 30,
+    "title": "The Godfather: Part II",
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "genre": "Crime, Drama",
+    "length (in min)": 202,
+    "ratings": {
+      "imdb": 9.0,
+      "metascore": 90
+    }
+  },
+  {
+    "rank": 31,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "genre": "Crime, Drama",
+    "length (in min)": 154,
+    "ratings": {
+      "imdb": 8.9,
+      "metascore": 94
+    }
+  },
+  {
+    "rank": 32,
+    "title": "Bohemian Rhapsody",
+    "year": 2018,
+    "director": "Bryan Singer",
+    "genre": "Biography, Drama, Music",
+    "length (in min)": 134,
+    "ratings": {
+      "imdb": 8.0,
+      "metascore": 49
+    }
+  },
+  {
+    "rank": 33,
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "director": "Anthony Russo",
+    "genre": "Action, Adventure, Sci-Fi",
+    "length (in min)": 136,
+    "ratings": {
+      "imdb": 7.7,
+      "metascore": 70
+    }
+  },
+  {
+    "rank": 34,
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "director": "James Gunn",
+    "genre": "Action, Adventure, Comedy",
+    "length (in min)": 121,
+    "ratings": {
+      "imdb": 8.0,
+      "metascore": 76
+    }
+  },
+  {
+    "rank": 35,
+    "title": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "genre": "Action, Adventure, Sci-Fi",
+    "length (in min)": 148,
+    "ratings": {
+      "imdb": 8.8,
+      "metascore": 74
+    }
+  },
+  {
+    "rank": 36,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "director": "Robert Zemeckis",
+    "genre": "Drama, Romance",
+    "length (in min)": 142,
+    "ratings": {
+      "imdb": 8.8,
+      "metascore": 82
+    }
+  },
+  {
+    "rank": 37,
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "director": "Denis Villeneuve",
+    "genre": "Action, Drama, Mystery",
+    "length (in min)": 164,
+    "ratings": {
+      "imdb": 8.0,
+      "metascore": 81
+    }
+  },
+  {
+    "rank": 38,
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "director": "Quentin Tarantino",
+    "genre": "Adventure, Drama, War",
+    "length (in min)": 153,
+    "ratings": {
+      "imdb": 8.3,
+      "metascore": 69
+    }
+  },
+  {
+    "rank": 39,
+    "title": "Harry Potter and the Goblet of Fire",
+    "year": 2005,
+    "director": "Mike Newell",
+    "genre": "Adventure, Family, Fantasy",
+    "length (in min)": 157,
+    "ratings": {
+      "imdb": 7.7,
+      "metascore": 81
+    }
+  },
+  {
+    "rank": 40,
+    "title": "Jojo Rabbit",
+    "year": 2019,
+    "director": "Taika Waititi",
+    "genre": "Comedy, Drama, War",
+    "length (in min)": 108,
+    "ratings": {
+      "imdb": 7.9,
+      "metascore": 58
+    }
+  },
+  {
+    "rank": 41,
+    "title": "Green Book",
+    "year": 2018,
+    "director": "Peter Farrelly",
+    "genre": "Biography, Comedy, Drama",
+    "length (in min)": 130,
+    "ratings": {
+      "imdb": 8.2,
+      "metascore": 69
+    }
+  },
+  {
+    "rank": 42,
+    "title": "Gladiator",
+    "year": 2000,
+    "director": "Ridley Scott",
+    "genre": "Action, Adventure, Drama",
+    "length (in min)": 155,
+    "ratings": {
+      "imdb": 8.5,
+      "metascore": 67
+    }
+  },
+  {
+    "rank": 43,
+    "title": "Back to the Future",
+    "year": 1985,
+    "director": "Robert Zemeckis",
+    "genre": "Adventure, Comedy, Sci-Fi",
+    "length (in min)": 116,
+    "ratings": {
+      "imdb": 8.5,
+      "metascore": 87
+    }
+  },
+  {
+    "rank": 44,
+    "title": "The Avengers",
+    "year": 2012,
+    "director": "Joss Whedon",
+    "genre": "Action, Adventure, Sci-Fi",
+    "length (in min)": 143,
+    "ratings": {
+      "imdb": 8.0,
+      "metascore": 69
+    }
+  },
+  {
+    "rank": 45,
+    "title": "The Green Mile",
+    "year": 1999,
+    "director": "Frank Darabont",
+    "genre": "Crime, Drama, Fantasy",
+    "length (in min)": 189,
+    "ratings": {
+      "imdb": 8.6,
+      "metascore": 61
+    }
+  },
+  {
+    "rank": 46,
+    "title": "Deadpool 2",
+    "year": 2018,
+    "director": "David Leitch",
+    "genre": "Action, Adventure, Comedy",
+    "length (in min)": 119,
+    "ratings": {
+      "imdb": 7.7,
+      "metascore": 66
+    }
+  },
+  {
+    "rank": 47,
+    "title": "Schindler's List",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "genre": "Biography, Drama, History",
+    "length (in min)": 195,
+    "ratings": {
+      "imdb": 8.9,
+      "metascore": 94
+    }
+  },
+  {
+    "rank": 48,
+    "title": "Ben-Hur",
+    "year": 1959,
+    "director": "William Wyler",
+    "genre": "Adventure, Drama, History",
+    "length (in min)": 212,
+    "ratings": {
+      "imdb": 8.1,
+      "metascore": 90
+    }
+  },
+  {
+    "rank": 49,
+    "title": "The Matrix",
+    "year": 1999,
+    "director": "Lana Wachowski",
+    "genre": "Action, Sci-Fi",
+    "length (in min)": 136,
+    "ratings": {
+      "imdb": 8.7,
+      "metascore": 73
+    }
+  },
+  {
+    "rank": 50,
+    "title": "Get Out",
+    "year": 2017,
+    "director": "Jordan Peele",
+    "genre": "Horror, Mystery, Thriller",
+    "length (in min)": 104,
+    "ratings": {
+      "imdb": 7.7,
+      "metascore": 85
+    }
+  }
+]
